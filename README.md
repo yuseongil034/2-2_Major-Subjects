@@ -29,9 +29,6 @@
 - [중간고사 대비](electromagnetics/problems/midterm_prep.md)
 - [기말고사 대비](electromagnetics/problems/final_prep.md)
 
-### 📝 실습 및 시뮬레이션
-- [MATLAB 전기장 시각화](electromagnetics/simulations/efield_visualization.m)
-- [Python 전자기학 계산](electromagnetics/simulations/em_calculations.py)
 
 ---
 
@@ -57,9 +54,7 @@
 - [AC 회로 문제](circuit_theory/problems/ac_circuits.md)
 - [과제 풀이](circuit_theory/problems/assignments.md)
 
-### ⚡ 시뮬레이션
-- [SPICE 시뮬레이션](circuit_theory/simulations/spice_examples/)
-- [Python 회로 해석](circuit_theory/simulations/circuit_analysis.py)
+
 
 ---
 
@@ -100,10 +95,7 @@
 - [푸리에 해석 문제](engineering_math/problems/fourier.md)
 - [복소해석 문제](engineering_math/problems/complex.md)
 
-### 💻 MATLAB/Python 실습
-- [미분방정식 수치해법](engineering_math/simulations/numerical_de.m)
-- [푸리에 변환 시각화](engineering_math/simulations/fourier_visualization.py)
-- [복소함수 그래프](engineering_math/simulations/complex_plots.py)
+
 
 ---
 
@@ -189,10 +181,7 @@
 - [확률분포 문제](probability/problems/distributions.md)
 - [응용 문제](probability/problems/applications.md)
 
-### 💻 시뮬레이션
-- [몬테카를로 시뮬레이션](probability/simulations/monte_carlo.py)
-- [확률분포 시각화](probability/simulations/distribution_plots.py)
-- [중심극한정리 시연](probability/simulations/clt_demo.py)
+
 
 ---
 
@@ -236,35 +225,7 @@
 - [변조 기법 문제](info_comm/problems/modulation.md)
 - [네트워킹 문제](info_comm/problems/networking.md)
 
-### 💻 시뮬레이션 및 실습
-- [MATLAB 신호 처리](info_comm/simulations/signal_processing.m)
-- [변조 시뮬레이션](info_comm/simulations/modulation_sim.py)
-- [네트워크 프로토콜 실습](info_comm/simulations/network_protocols/)
 
 ---
 
-## 📝 학습 관리
 
-### 📅 학습 계획
-- [주차별 학습 계획](study_plan/weekly_schedule.md)
-- [시험 일정 관리](study_plan/exam_schedule.md)
-- [과제 관리](study_plan/assignment_tracker.md)
-
-### 📊 성과 관리
-- [성적 기록](performance/grade_tracking.md)
-- [학습 진도 체크](performance/progress_check.md)
-- [취약 부분 분석](performance/weakness_analysis.md)
-
-### 🔗 참고 자료
-- [교재 정보](references/textbooks.md)
-- [온라인 강의](references/online_courses.md)
-- [유용한 웹사이트](references/useful_websites.md)
-- [공식 정리](references/formula_sheets.md)
-
----
-
-## 🏆 목표 및 성취
-- [ ] 전 과목 B+ 이상 성적 달성
-- [ ] 각 과목별 핵심 개념 완전 이해
-- [ ] 실습 프로젝트 완성
-- [ ] 졸업 후 진로 계획 수립
