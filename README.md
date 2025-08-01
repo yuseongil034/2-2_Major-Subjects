@@ -33,21 +33,23 @@
 ---
 
 ## 2. 회로이론 (Circuit Theory)
-
 ### 📖 이론 정리
-- [기본 회로 소자](circuit_theory/basic_elements.md)
-- [옴의 법칙과 키르히호프 법칙](circuit_theory/ohm_kirchhoff.md)
-- [저항 회로 해석](circuit_theory/resistive_circuits.md)
-- [노드 해석법](circuit_theory/nodal_analysis.md)
-- [메쉬 해석법](circuit_theory/mesh_analysis.md)
-- [테브닌과 노턴 정리](circuit_theory/thevenin_norton.md)
-- [OP-AMP 회로](circuit_theory/opamp_circuits.md)
-- [커패시터와 인덕터](circuit_theory/capacitor_inductor.md)
-- [1차 회로](circuit_theory/first_order_circuits.md)
-- [2차 회로](circuit_theory/second_order_circuits.md)
-- [정현파 정상상태 해석](circuit_theory/sinusoidal_analysis.md)
-- [페이저와 임피던스](circuit_theory/phasor_impedance.md)
-- [전력과 역률](circuit_theory/power_factor.md)
+- [기본 회로소자와 전기회로](circuit_theory/basic_circuit_elements.md)
+- [전압법칙과 전류법칙](circuit_theory/voltage_current_laws.md)
+- [기본적인 마디해석법 및 메쉬해석법](circuit_theory/nodal_mesh_analysis.md)
+- [편리한 회로 해석 기법](circuit_theory/convenient_analysis_methods.md)
+- [연산증폭기](circuit_theory/operational_amplifiers.md)
+- [커패시터와 인덕터](circuit_theory/capacitors_inductors.md)
+- [기본적인 RL과 RC 회로](circuit_theory/rl_rc_circuits.md)
+- [RLC 회로](circuit_theory/rlc_circuits.md)
+- [정현파의 정상상태 해석](circuit_theory/sinusoidal_steady_state.md)
+- [교류 회로 전력 해석](circuit_theory/ac_power_analysis.md)
+- [다상 회로](circuit_theory/polyphase_circuits.md)
+- [자기 결합 회로](circuit_theory/magnetically_coupled_circuits.md)
+- [s-영역에서의 회로 해석](circuit_theory/s_domain_analysis.md)
+- [주파수 응답](circuit_theory/frequency_response.md)
+- [2포트 회로망](circuit_theory/two_port_networks.md)
+- [푸리에 회로 해석](circuit_theory/fourier_circuit_analysis.md)
 
 ### 🧮 문제풀이
 - [DC 회로 문제](circuit_theory/problems/dc_circuits.md)
