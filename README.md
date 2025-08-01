@@ -37,7 +37,7 @@
 - [기본 회로소자와 전기회로](기본소자정리.md)
 - [전압법칙과 전류법칙](KCL&KVL.md)
 - [기본적인 마디해석법 및 메쉬해석법](NODAL&MESH.md)
-- [편리한 회로 해석 기법](편리한 회로 해석 기법.md)
+- [편리한 회로 해석 기법](편리한_회로해석_기법.md)
 - [연산증폭기](circuit_theory/operational_amplifiers.md)
 - [커패시터와 인덕터](circuit_theory/capacitors_inductors.md)
 - [기본적인 RL과 RC 회로](circuit_theory/rl_rc_circuits.md)
