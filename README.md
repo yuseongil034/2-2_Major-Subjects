@@ -34,7 +34,7 @@
 
 ## 2. 회로이론 (Circuit Theory)
 ### 📖 이론 정리
-- [기본 회로소자와 전기회로](circuit_theory/basic_circuit_elements.md)
+- [기본 회로소자와 전기회로](기본소자정리.md)
 - [전압법칙과 전류법칙](circuit_theory/voltage_current_laws.md)
 - [기본적인 마디해석법 및 메쉬해석법](circuit_theory/nodal_mesh_analysis.md)
 - [편리한 회로 해석 기법](circuit_theory/convenient_analysis_methods.md)
