@@ -13,7 +13,7 @@
 ## 1. 전자기학 (Electromagnetics)
 
 ### 📖 이론 정리
-- [벡터 해석](electromagnetics/vector_analysis.md)
+- [벡터 해석](백터의_개념.md)
 - [쿨롱의 법칙과 전기장](electromagnetics/coulomb_law.md)
 - [가우스 법칙](electromagnetics/gauss_law.md)
 - [전위와 전기에너지](electromagnetics/electric_potential.md)
