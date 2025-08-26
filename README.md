@@ -14,7 +14,7 @@
 
 ### 📖 이론 정리
 - [전기력과 전계, 자석과 전자스핀, 전류와 자계](전기력_전계_자석_전자스핀_전류_자계.md)
-- [전계와 자계의 독립성, 매질변수, 전자기파](electromagnetics/field_independence.md)
+- [전계와 자계의 독립성, 매질변수, 전자기파](전계,자계_독립성_매질변수_전자기파.md)
 - [차원과 단위, 스칼라와 벡터](electromagnetics/dimensions_vectors.md)
 - [직교좌표계와 벡터의 적분](electromagnetics/coordinate_integration.md)
 - [스칼라 및 벡터의 미분](electromagnetics/vector_calculus.md)
