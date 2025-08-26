@@ -13,26 +13,17 @@
 ## 1. 전자기학 (Electromagnetics)
 
 ### 📖 이론 정리
-- [차원과 단위](electromagnetics/dimension_units.md)
-- [스칼라와 벡터](electromagnetics/scalar_vector.md)
-- [직교좌표계와 벡터의 적분](electromagnetics/coordinate_system.md)
+- [Introduction](electromagnetics/introduction.md)
+- [전기력과 전계, 자석과 전자스핀, 전류와 자계](electromagnetics/electric_magnetic_basics.md)
+- [전계와 자계의 독립성, 매질변수, 전자기파](electromagnetics/field_independence.md)
+- [차원과 단위, 스칼라와 벡터](electromagnetics/dimensions_vectors.md)
+- [직교좌표계와 벡터의 적분](electromagnetics/coordinate_integration.md)
 - [스칼라 및 벡터의 미분](electromagnetics/vector_calculus.md)
 - [벡터의 발산과 회전](electromagnetics/divergence_curl.md)
-- [전기력과 전계](electromagnetics/electric_force_field.md)
-- [자석과 전자스핀](electromagnetics/magnetism_spin.md)
-- [전류와 자계](electromagnetics/current_magnetic_field.md)
-- [전계와 자계의 독립성](electromagnetics/field_independence.md)
-- [매질변수](electromagnetics/material_parameters.md)
-- [전자기파](electromagnetics/electromagnetic_waves.md)
 - [Coulomb의 법칙과 전계](electromagnetics/coulomb_law.md)
-- [전위](electromagnetics/electric_potential.md)
-- [전속밀도와 Gauss 법칙](electromagnetics/gauss_law.md)
-- [도전전류와 저항](electromagnetics/current_resistance.md)
-- [경계치 문제](electromagnetics/boundary_problems.md)
-- [전기영상법](electromagnetics/image_method.md)
-- [정전에너지](electromagnetics/electrostatic_energy.md)
-
-
+- [전위, 전속밀도와 Gauss 법칙](electromagnetics/potential_gauss.md)
+- [도전전류와 저항, 경계치 문제](electromagnetics/current_resistance.md)
+- [전기영상법, 정전에너지](electromagnetics/image_method.md)
 
 ---
 
