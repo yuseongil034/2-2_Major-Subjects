@@ -13,21 +13,25 @@
 ## 1. 전자기학 (Electromagnetics)
 
 ### 📖 이론 정리
-- [벡터 해석](백터의_개념.md)
-- [쿨롱의 법칙과 전기장](electromagnetics/coulomb_law.md)
-- [가우스 법칙](electromagnetics/gauss_law.md)
-- [전위와 전기에너지](electromagnetics/electric_potential.md)
-- [유전체와 경계조건](electromagnetics/dielectrics.md)
-- [정전용량과 축전기](electromagnetics/capacitance.md)
-- [전류와 저항](electromagnetics/current_resistance.md)
-- [자기장과 자기력](electromagnetics/magnetic_field.md)
-- [패러데이 법칙](electromagnetics/faraday_law.md)
-- [맥스웰 방정식](electromagnetics/maxwell_equations.md)
+- [차원과 단위](electromagnetics/dimension_units.md)
+- [스칼라와 벡터](electromagnetics/scalar_vector.md)
+- [직교좌표계와 벡터의 적분](electromagnetics/coordinate_system.md)
+- [스칼라 및 벡터의 미분](electromagnetics/vector_calculus.md)
+- [벡터의 발산과 회전](electromagnetics/divergence_curl.md)
+- [전기력과 전계](electromagnetics/electric_force_field.md)
+- [자석과 전자스핀](electromagnetics/magnetism_spin.md)
+- [전류와 자계](electromagnetics/current_magnetic_field.md)
+- [전계와 자계의 독립성](electromagnetics/field_independence.md)
+- [매질변수](electromagnetics/material_parameters.md)
+- [전자기파](electromagnetics/electromagnetic_waves.md)
+- [Coulomb의 법칙과 전계](electromagnetics/coulomb_law.md)
+- [전위](electromagnetics/electric_potential.md)
+- [전속밀도와 Gauss 법칙](electromagnetics/gauss_law.md)
+- [도전전류와 저항](electromagnetics/current_resistance.md)
+- [경계치 문제](electromagnetics/boundary_problems.md)
+- [전기영상법](electromagnetics/image_method.md)
+- [정전에너지](electromagnetics/electrostatic_energy.md)
 
-### 🧮 문제풀이
-- [기본 문제](electromagnetics/problems/basic_problems.md)
-- [중간고사 대비](electromagnetics/problems/midterm_prep.md)
-- [기말고사 대비](electromagnetics/problems/final_prep.md)
 
 
 ---
