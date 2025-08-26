@@ -13,7 +13,7 @@
 ## 1. 전자기학 (Electromagnetics)
 
 ### 📖 이론 정리
-- [전기력과 전계, 자석과 전자스핀, 전류와 자계](electromagnetics/electric_magnetic_basics.md)
+- [전기력과 전계, 자석과 전자스핀, 전류와 자계](전기력과 전계, 자석과 전자스핀, 전류와 자계.md)
 - [전계와 자계의 독립성, 매질변수, 전자기파](electromagnetics/field_independence.md)
 - [차원과 단위, 스칼라와 벡터](electromagnetics/dimensions_vectors.md)
 - [직교좌표계와 벡터의 적분](electromagnetics/coordinate_integration.md)
