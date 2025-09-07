@@ -137,46 +137,21 @@
 
 ---
 
-## 5. 확률 및 랜덤변수 (Probability & Random Variables)
+## 5. 미적분학 복 (Probability & Random Variables)
 
-### 📖 이론 정리
-
-#### 🎲 확률 기초 (Probability Basics)
-- [확률의 정의와 공리](probability/basics/probability_axioms.md)
-- [조건부 확률](probability/basics/conditional_probability.md)
-- [베이즈 정리](probability/basics/bayes_theorem.md)
-- [독립성](probability/basics/independence.md)
-
-#### 📊 랜덤변수 (Random Variables)
-- [이산 랜덤변수](probability/random_variables/discrete_rv.md)
-- [연속 랜덤변수](probability/random_variables/continuous_rv.md)
-- [확률질량함수와 확률밀도함수](probability/random_variables/pmf_pdf.md)
-- [누적분포함수](probability/random_variables/cdf.md)
-- [기댓값과 분산](probability/random_variables/expectation_variance.md)
-
-#### 📈 확률분포 (Probability Distributions)
-- [이항분포](probability/distributions/binomial.md)
-- [포아송분포](probability/distributions/poisson.md)
-- [정규분포](probability/distributions/normal.md)
-- [지수분포](probability/distributions/exponential.md)
-- [균등분포](probability/distributions/uniform.md)
-
-#### 🔗 다중 랜덤변수 (Multiple Random Variables)
-- [결합확률분포](probability/multiple_rv/joint_distribution.md)
-- [주변확률분포](probability/multiple_rv/marginal_distribution.md)
-- [공분산과 상관계수](probability/multiple_rv/covariance_correlation.md)
-- [조건부 기댓값](probability/multiple_rv/conditional_expectation.md)
-
-#### 📏 극한정리 (Limit Theorems)
-- [대수의 법칙](probability/limit_theorems/law_of_large_numbers.md)
-- [중심극한정리](probability/limit_theorems/central_limit_theorem.md)
-
-### 🧮 문제풀이
-- [기초 확률 문제](probability/problems/basic_probability.md)
-- [랜덤변수 문제](probability/problems/random_variables.md)
-- [확률분포 문제](probability/problems/distributions.md)
-- [응용 문제](probability/problems/applications.md)
-
+- [함수와 극한](전기력전계자석전자스핀전류자계.md)
+- [도함수와 미분법의 응용](전계,자계독립성매질변수전자기파.md)
+- [적분과 적분법의 응용](차원과단위.md)
+- [역함수: 지수함수, 로그함수, 역삼각함수](백터좌표계.md)
+- [적분 방법: 치환적분, 부분적분, 삼각치환 등](스칼라백터미분.md)
+- [적분법의 다양한 응용: 면적, 부피, 물리적 해석](스칼라백터미분.md)
+- [매개변수방정식과 극좌표](쿨롱의법칙.md)
+- [무한수열과 무한급수](가우스법칙도전전류와저항.md)
+- [다중적분: 이중적분, 삼중적분](가우스법칙_도전전류와저항.md)
+- [복소수와 오일러 공식](정전에너지.md)
+- [삼각함수의 정의와 성질](전기력전계자석전자스핀전류자계.md)
+- [삼각함수의 미분과 적분](전계,자계독립성매질변수전자기파.md)
+- [지수함수와 로그함수의 미분과 적분](차원과단위.md)
 
 
 ---
