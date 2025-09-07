@@ -16,13 +16,13 @@
 - [전기력과 전계, 자석과 전자스핀, 전류와 자계](전기력_전계_자석_전자스핀_전류_자계.md)
 - [전계와 자계의 독립성, 매질변수, 전자기파](전계,자계_독립성_매질변수_전자기파.md)
 - [차원과 단위, 스칼라와 벡터](차원과_단위.md)
-- [직교좌표계와 벡터의 적분](electromagnetics/coordinate_integration.md)
-- [스칼라 및 벡터의 미분](electromagnetics/vector_calculus.md)
-- [벡터의 발산과 회전](electromagnetics/divergence_curl.md)
-- [Coulomb의 법칙과 전계](electromagnetics/coulomb_law.md)
-- [전위, 전속밀도와 Gauss 법칙](electromagnetics/potential_gauss.md)
-- [도전전류와 저항, 경계치 문제](electromagnetics/current_resistance.md)
-- [전기영상법, 정전에너지](electromagnetics/image_method.md)
+- [직교좌표계와 벡터의 적분](백터좌표계.md)
+- [스칼라 및 벡터의 미분](스칼라_백터_미분.md)
+- [벡터의 발산과 회전](스칼라_백터_미분.md)
+- [Coulomb의 법칙과 전계](쿨롱의법칙.md)
+- [전위, 전속밀도와 Gauss 법칙](가우스법칙_도전전류와저항.md)
+- [도전전류와 저항, 경계치 문제](가우스법칙_도전전류와저항.md)
+- [정전에너지](정전에너지.md)
 
 ---
 
