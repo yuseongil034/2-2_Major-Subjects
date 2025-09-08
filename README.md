@@ -5,7 +5,7 @@
 - [회로이론 (Circuit Theory)](#2-회로이론-circuit-theory)
 - [공업수학 (Engineering Mathematics)](#3-공업수학-engineering-mathematics)
 - [C++ 프로그래밍](#4-c-프로그래밍)
-- [확률 및 랜덤변수 (Probability & Random Variables)](#5-확률-및-랜덤변수-probability--random-variables)
+- [미적분학 복습 (Calculus)](#5-미적분학-복습-Calculus)
 - [정보통신개론 (Introduction to Information & Communication)](#6-정보통신개론-introduction-to-information--communication)
 
 ---
