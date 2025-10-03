@@ -97,43 +97,20 @@
 
 ## 4. C++ 프로그래밍
 
-### 📖 기본 문법
-- [C++ 기초 문법](cpp/basics/syntax_basics.md)
-- [변수와 자료형](cpp/basics/variables_datatypes.md)
-- [연산자](cpp/basics/operators.md)
-- [제어구조 (if, for, while)](cpp/basics/control_structures.md)
-- [함수](cpp/basics/functions.md)
-- [배열과 포인터](cpp/basics/arrays_pointers.md)
-
-### 🏗️ 객체지향 프로그래밍
-- [클래스와 객체](cpp/oop/classes_objects.md)
-- [생성자와 소멸자](cpp/oop/constructors_destructors.md)
-- [상속](cpp/oop/inheritance.md)
-- [다형성](cpp/oop/polymorphism.md)
-- [연산자 오버로딩](cpp/oop/operator_overloading.md)
-- [템플릿](cpp/oop/templates.md)
-
-### 📚 STL (Standard Template Library)
-- [벡터 (Vector)](cpp/stl/vector.md)
-- [리스트 (List)](cpp/stl/list.md)
-- [스택과 큐](cpp/stl/stack_queue.md)
-- [맵과 셋](cpp/stl/map_set.md)
-- [알고리즘](cpp/stl/algorithms.md)
-
-### 💾 파일 입출력
-- [파일 읽기/쓰기](cpp/file_io/file_operations.md)
-- [바이너리 파일 처리](cpp/file_io/binary_files.md)
-
-### 🔧 실습 프로젝트
-- [계산기 프로그램](cpp/projects/calculator/)
-- [학생 성적 관리 시스템](cpp/projects/grade_management/)
-- [간단한 게임](cpp/projects/simple_game/)
-- [자료구조 구현](cpp/projects/data_structures/)
-
-### 🧮 문제풀이
-- [기초 문제](cpp/problems/basic_problems.md)
-- [알고리즘 문제](cpp/problems/algorithm_problems.md)
-- [과제 풀이](cpp/problems/assignments.md)
+- [2주차](C++_2주차.md) 
+- [3주차](C++_3주차.md) 
+- [4주차](C++_4주차.md)
+- [5주차](C++_5주차.md) 
+- [6주차](C++_6주차.md) 
+- [7주차](C++_7주차.md) 
+- [중간고사](C++_8주차.md)
+- [9주차](C++_9주차.md) 
+- [10주차](C++_10주차.md)
+- [11주차](C++_11주차.md)
+- [12주차](C++_12주차.md)
+- [13주차](C++_13주차.md)
+- [14주차](C++_14주차.md)
+- [기말고사](C++_15주차.md)
 
 ---
 
