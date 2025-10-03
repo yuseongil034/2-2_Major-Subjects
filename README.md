@@ -159,41 +159,22 @@
 
 ### 📖 이론 정리
 
-#### 📡 통신 시스템 기초
-- [통신 시스템 개요](info_comm/basics/communication_systems.md)
-- [신호와 스펙트럼](info_comm/basics/signals_spectrum.md)
-- [아날로그와 디지털 통신](info_comm/basics/analog_digital.md)
-- [잡음과 간섭](info_comm/basics/noise_interference.md)
+- [OT](info_comm/basics/communication_systems.md) 
+- [2주차](info_comm/basics/signals_spectrum.md) 
+- [3주차](info_comm/basics/analog_digital.md) 
+- [4주차](info_comm/basics/noise_interference.md)
+- [5주차](info_comm/information_theory/entropy.md) 
+- [6주차](info_comm/information_theory/channel_capacity.md) 
+- [7주차](info_comm/information_theory/source_coding.md) 
+- [중간고사](info_comm/information_theory/channel_coding.md)
+- [9주차](info_comm/modulation/amplitude_modulation.md) 
+- [10주차](info_comm/modulation/frequency_modulation.md)
+- [11주차](info_comm/modulation/phase_modulation.md)
+- [12주차](info_comm/modulation/digital_modulation.md)
+- [13주차](info_comm/networking/osi_model.md)
+- [14주차](info_comm/networking/tcp_ip.md)
+- [기말고사](info_comm/wireless/channel_characteristics.md)
 
-#### 📊 정보 이론 (Information Theory)
-- [정보량과 엔트로피](info_comm/information_theory/entropy.md)
-- [채널 용량](info_comm/information_theory/channel_capacity.md)
-- [소스 코딩](info_comm/information_theory/source_coding.md)
-- [채널 코딩](info_comm/information_theory/channel_coding.md)
-
-#### 🔄 변조와 복조 (Modulation & Demodulation)
-- [진폭 변조 (AM)](info_comm/modulation/amplitude_modulation.md)
-- [주파수 변조 (FM)](info_comm/modulation/frequency_modulation.md)
-- [위상 변조 (PM)](info_comm/modulation/phase_modulation.md)
-- [디지털 변조](info_comm/modulation/digital_modulation.md)
-
-#### 🌐 네트워크 기초
-- [OSI 7계층](info_comm/networking/osi_model.md)
-- [TCP/IP 프로토콜](info_comm/networking/tcp_ip.md)
-- [데이터 링크 계층](info_comm/networking/data_link.md)
-- [네트워크 계층](info_comm/networking/network_layer.md)
-
-#### 📶 무선 통신
-- [무선 채널 특성](info_comm/wireless/channel_characteristics.md)
-- [안테나 기초](info_comm/wireless/antenna_basics.md)
-- [다중 접속 기법](info_comm/wireless/multiple_access.md)
-- [셀룰러 시스템](info_comm/wireless/cellular_systems.md)
-
-### 🧮 문제풀이
-- [통신 시스템 문제](info_comm/problems/communication_systems.md)
-- [정보 이론 문제](info_comm/problems/information_theory.md)
-- [변조 기법 문제](info_comm/problems/modulation.md)
-- [네트워킹 문제](info_comm/problems/networking.md)
 
 
 ---
