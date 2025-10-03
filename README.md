@@ -159,21 +159,22 @@
 
 ### 📖 이론 정리
 
-- [OT](info_comm/basics/communication_systems.md) 
-- [2주차](info_comm/basics/signals_spectrum.md) 
-- [3주차](info_comm/basics/analog_digital.md) 
-- [4주차](info_comm/basics/noise_interference.md)
-- [5주차](info_comm/information_theory/entropy.md) 
-- [6주차](info_comm/information_theory/channel_capacity.md) 
-- [7주차](info_comm/information_theory/source_coding.md) 
-- [중간고사](info_comm/information_theory/channel_coding.md)
-- [9주차](info_comm/modulation/amplitude_modulation.md) 
-- [10주차](info_comm/modulation/frequency_modulation.md)
-- [11주차](info_comm/modulation/phase_modulation.md)
-- [12주차](info_comm/modulation/digital_modulation.md)
-- [13주차](info_comm/networking/osi_model.md)
-- [14주차](info_comm/networking/tcp_ip.md)
-- [기말고사](info_comm/wireless/channel_characteristics.md)
+- [OT]
+- [2주차](정통개론_2주차.md) 
+- [3주차](정통개론_3주차.md) 
+- [4주차](정통개론_4주차.md)
+- [5주차](정통개론_5주차.md) 
+- [6주차](정통개론_6주차.md) 
+- [7주차](정통개론_7주차.md) 
+- [중간고사]
+- [9주차](정통개론_9주차.md) 
+- [10주차](정통개론_10주차.md)
+- [11주차](정통개론_11주차.md)
+- [12주차](정통개론_12주차.md)
+- [13주차](정통개론_13주차.md)
+- [14주차](정통개론_14주차.md)
+- [기말고사]
+
 
 
 
